@@ -1,0 +1,7 @@
+context/DBContext.class
+dao/FruitDAOImpl.class
+model/Category.class
+dao/CategoryDAO.class
+dao/CategoryDAOImpl.class
+dao/FruitDAO.class
+model/Fruit.class
